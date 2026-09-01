@@ -19,44 +19,45 @@
 ---
 <!-- About Me + Social Links -->
 
-<p>
+<h2>
+  👨‍💻 About Me
 
-  <a href="https://github.com/hibanasrin2727" target="_blank">
-    <img align="right"
-         src="https://skillicons.dev/icons?i=github"
-         width="32"
-         height="32"
-         alt="GitHub"/>
-  </a>
+  <span>
+    <a href="https://linkedin.com/in/hiba-nasrin-vp">
+      <img align="right"
+           src="https://skillicons.dev/icons?i=linkedin"
+           width="32"
+           height="32"
+           alt="LinkedIn"/>
+    </a>
 
-  <a href="mailto:hibanasrin2727@gmail.com">
-    <img align="right"
-         src="https://skillicons.dev/icons?i=gmail"
-         width="32"
-         height="32"
-         alt="Gmail"/>
-  </a>
+    <a href="https://instagram.com/hiba_rzq">
+      <img align="right"
+           src="https://skillicons.dev/icons?i=instagram"
+           width="32"
+           height="32"
+           alt="Instagram"/>
+    </a>
 
-  <a href="https://instagram.com/hiba_rzq" target="_blank">
-    <img align="right"
-         src="https://skillicons.dev/icons?i=instagram"
-         width="32"
-         height="32"
-         alt="Instagram"/>
-  </a>
+    <a href="mailto:hibanasrin2727@gmail.com">
+      <img align="right"
+           src="https://skillicons.dev/icons?i=gmail"
+           width="32"
+           height="32"
+           alt="Gmail"/>
+    </a>
 
-  <a href="https://linkedin.com/in/hiba-nasrin-vp" target="_blank">
-    <img align="right"
-         src="https://skillicons.dev/icons?i=linkedin"
-         width="32"
-         height="32"
-         alt="LinkedIn"/>
-  </a>
+    <a href="https://github.com/hibanasrin2727">
+      <img align="right"
+           src="https://skillicons.dev/icons?i=github"
+           width="32"
+           height="32"
+           alt="GitHub"/>
+    </a>
+  </span>
+</h2>
 
-  <h2>👨‍💻 About Me</h2>
-
-</p>
-
+<hr>
 I'm **Hiba Nasrin VP**, a BCA graduate and aspiring full-stack developer who enjoys building practical web applications and learning modern development technologies.
 
 * 🌱 Currently learning **MERN Stack Development**
