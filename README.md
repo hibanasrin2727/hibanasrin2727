@@ -20,40 +20,22 @@
 
 <!-- About Me + Social Links -->
 
-<p align="right">
-
-  <a href="https://linkedin.com/in/hiba-nasrin-vp" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-         width="28"
-         height="28"
-         alt="LinkedIn"/>
+<p>
+  <a href="https://github.com/hibanasrin2727" target="_blank">
+    <img align="right" src="https://skillicons.dev/icons?i=github" width="32" height="32" alt="GitHub"/>
   </a>
-  &nbsp;&nbsp;
-
-  <a href="https://instagram.com/hiba_rzq" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-         width="28"
-         height="28"
-         alt="Instagram"/>
-  </a>
-  &nbsp;&nbsp;
 
   <a href="mailto:hibanasrin2727@gmail.com">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
-         width="28"
-         height="28"
-         alt="Gmail"/>
-  </a>
-  &nbsp;&nbsp;
-
-  <a href="https://github.com/hibanasrin2727" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-         width="28"
-         height="28"
-         alt="GitHub"/>
+    <img align="right" src="https://skillicons.dev/icons?i=gmail" width="32" height="32" alt="Gmail"/>
   </a>
 
-</p>
+  <a href="https://instagram.com/hiba_rzq" target="_blank">
+    <img align="right" src="https://skillicons.dev/icons?i=instagram" width="32" height="32" alt="Instagram"/>
+  </a>
+
+  <a href="https://linkedin.com/in/hiba-nasrin-vp" target="_blank">
+    <img align="right" src="https://skillicons.dev/icons?i=linkedin" width="32" height="32" alt="LinkedIn"/>
+  </a>
 
   <h2>👨‍💻 About Me</h2>
 </p>
