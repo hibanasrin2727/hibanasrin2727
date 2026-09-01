@@ -16,17 +16,17 @@
   </a>
 </p>
 
+---
 
-
-<table>
+<table width="100%">
 <tr>
-<td width="60%" align="left">
+<td width="65%" align="left">
 
 <h2>👨‍💻 About Me</h2>
 
 </td>
 
-<td width="40%" align="right">
+<td width="35%" align="right">
 
 <a href="https://linkedin.com/in/hiba-nasrin-vp" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="32" height="32" alt="LinkedIn"/>
@@ -60,7 +60,6 @@ I'm **Hiba Nasrin VP**, a BCA graduate and aspiring full-stack developer who enj
 * 🎯 Goal: Become a skilled **Full-Stack Developer**
 
 ---
-
 
 ## 🛠️ Tech Stack
 
@@ -159,7 +158,6 @@ I'm **Hiba Nasrin VP**, a BCA graduate and aspiring full-stack developer who enj
 </p>
 
 ---
-
 
 ## 📊 GitHub Statistics
 
