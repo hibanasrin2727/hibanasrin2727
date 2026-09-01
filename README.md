@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hiba Nasrin VP</h1>
 
 <h3 align="center">
-  🚀 Aspiring Full-Stack Developer | BCA Student | Building & Learning
+  🚀 Aspiring Full-Stack Developer | BCA Graduate | Building & Learning
 </h3>
 
 <p align="center">
@@ -25,13 +25,11 @@
 
 I'm **Hiba Nasrin VP**, a BCA student and aspiring full-stack developer who enjoys building practical web applications and learning modern development technologies.
 
-* 🎓 Currently pursuing **BCA**
-* 💻 Interested in **Full-Stack Web Development**
 * 🌱 Currently learning **MERN Stack Development**
+* 💻 Interested in **Full-Stack Web Development**
 * 🔧 Building projects with **React, Node.js, Express & MongoDB**
 * 🐍 Exploring **Python & Django**
 * 🗄️ Learning database design with **MongoDB & MySQL**
-* 🔌 Practicing **REST API development**
 * 🧪 Using **Postman** for API testing
 * 🚀 Improving my skills by building real-world projects
 * 🎯 Goal: Become a skilled **Full-Stack Developer**
@@ -72,25 +70,6 @@ I'm **Hiba Nasrin VP**, a BCA student and aspiring full-stack developer who enjo
 
 ---
 
-## 📚 Currently Learning
-
-```text
-React.js
-   ↓
-Redux Toolkit
-   ↓
-Node.js + Express.js
-   ↓
-MongoDB + Mongoose
-   ↓
-REST APIs
-   ↓
-Authentication
-   ↓
-Full-Stack Development
-```
-
----
 
 ## 📊 GitHub Statistics
 
