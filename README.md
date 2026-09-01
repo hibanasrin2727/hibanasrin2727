@@ -20,28 +20,47 @@
 
 <!-- About Me + Social Links -->
 
-<p>
-  <a href="https://github.com/hibanasrin2727" target="_blank">
-    <img align="right" src="https://skillicons.dev/icons?i=github" width="32" height="32" alt="GitHub"/>
-  </a>
-
-  <a href="mailto:hibanasrin2727@gmail.com">
-    <img align="right" src="https://skillicons.dev/icons?i=gmail" width="32" height="32" alt="Gmail"/>
-  </a>
-
-  <a href="https://instagram.com/hiba_rzq" target="_blank">
-    <img align="right" src="https://skillicons.dev/icons?i=instagram" width="32" height="32" alt="Instagram"/>
-  </a>
+<p align="right">
 
   <a href="https://linkedin.com/in/hiba-nasrin-vp" target="_blank">
-    <img align="right" src="https://skillicons.dev/icons?i=linkedin" width="32" height="32" alt="LinkedIn"/>
+    <img src="https://cdn.simpleicons.org/linkedin"
+         width="32"
+         height="32"
+         alt="LinkedIn"/>
   </a>
 
-  <h2>👨‍💻 About Me</h2>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://instagram.com/hiba_rzq" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram"
+         width="32"
+         height="32"
+         alt="Instagram"/>
+  </a>
+
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:hibanasrin2727@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail"
+         width="32"
+         height="32"
+         alt="Gmail"/>
+  </a>
+
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://github.com/hibanasrin2727" target="_blank">
+    <img src="https://cdn.simpleicons.org/github"
+         width="32"
+         height="32"
+         alt="GitHub"/>
+  </a>
+
 </p>
 
----
+<h2>👨‍💻 About Me</h2>
 
+---
 I'm **Hiba Nasrin VP**, a BCA graduate and aspiring full-stack developer who enjoys building practical web applications and learning modern development technologies.
 
 * 🌱 Currently learning **MERN Stack Development**
