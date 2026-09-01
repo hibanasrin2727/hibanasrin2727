@@ -20,45 +20,43 @@
 
 <!-- About Me + Social Links -->
 
-<p align="right">
-
-  <a href="https://linkedin.com/in/hiba-nasrin-vp" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin"
-         width="32"
-         height="32"
-         alt="LinkedIn"/>
-  </a>
-
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://instagram.com/hiba_rzq" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram"
-         width="32"
-         height="32"
-         alt="Instagram"/>
-  </a>
-
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="mailto:hibanasrin2727@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail"
-         width="32"
-         height="32"
-         alt="Gmail"/>
-  </a>
-
-  &nbsp;&nbsp;&nbsp;
+<p>
 
   <a href="https://github.com/hibanasrin2727" target="_blank">
-    <img src="https://cdn.simpleicons.org/github"
+    <img align="right"
+         src="https://img.shields.io/badge/-?style=flat-square&logo=github&logoColor=181717&color=white"
          width="32"
          height="32"
          alt="GitHub"/>
   </a>
 
-</p>
+  <a href="mailto:hibanasrin2727@gmail.com">
+    <img align="right"
+         src="https://img.shields.io/badge/-?style=flat-square&logo=gmail&logoColor=EA4335&color=white"
+         width="32"
+         height="32"
+         alt="Gmail"/>
+  </a>
 
-<h2>👨‍💻 About Me</h2>
+  <a href="https://instagram.com/hiba_rzq" target="_blank">
+    <img align="right"
+         src="https://img.shields.io/badge/-?style=flat-square&logo=instagram&logoColor=E4405F&color=white"
+         width="32"
+         height="32"
+         alt="Instagram"/>
+  </a>
+
+  <a href="https://linkedin.com/in/hiba-nasrin-vp" target="_blank">
+    <img align="right"
+         src="https://img.shields.io/badge/-?style=flat-square&logo=linkedin&logoColor=0A66C2&color=white"
+         width="32"
+         height="32"
+         alt="LinkedIn"/>
+  </a>
+
+  <h2>👨‍💻 About Me</h2>
+
+</p>
 
 ---
 I'm **Hiba Nasrin VP**, a BCA graduate and aspiring full-stack developer who enjoys building practical web applications and learning modern development technologies.
