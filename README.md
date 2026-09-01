@@ -180,8 +180,17 @@ I'm **Hiba Nasrin VP**, a BCA graduate and aspiring full-stack developer who enj
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hibanasrin2727&show_icons=true&hide_border=true&rank_icon=github" height="180" alt="GitHub Statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hibanasrin2727&layout=compact&hide_border=true" height="180" alt="Top Languages"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=hibanasrin2727&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
+    height="180"
+    alt="Hiba Nasrin VP's GitHub Statistics"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hibanasrin2727&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="180"
+    alt="Hiba Nasrin VP's Top Languages"
+  />
 </p>
 
 ---
@@ -189,31 +198,36 @@ I'm **Hiba Nasrin VP**, a BCA graduate and aspiring full-stack developer who enj
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hibanasrin2727&hide_border=true" alt="GitHub Streak"/>
+  <img
+    src="https://streak-stats.demolab.com?user=hibanasrin2727&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Hiba Nasrin VP's GitHub Streak"
+  />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hibanasrin2727&theme=flat&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hibanasrin2727&hide_border=true" alt="GitHub Activity Graph"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=hibanasrin2727&theme=tokyo-night&hide_border=true&area=true"
+    alt="Hiba Nasrin VP's GitHub Activity Graph"
+  />
 </p>
 
 ---
 
 ## 💡 Developer Philosophy
 
-> **"Learn by building. Build by solving. Grow by improving."**
+<p align="center">
+
+> 🚀 <b>Learn by building.</b><br>
+> 💻 <b>Build by solving.</b><br>
+> 🌱 <b>Grow by improving.</b>
+
+</p>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile! ⭐
+  ⭐ <b>Thanks for visiting my profile!</b> ⭐
 </p>
