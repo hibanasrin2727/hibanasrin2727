@@ -18,26 +18,35 @@
 
 
 
-<p align="center">
-  <a href="https://linkedin.com/in/hiba-nasrin-vp" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/hiba_rzq" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="50" height="50" alt="Instagram"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:hibanasrin2727@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="50" height="50" alt="Gmail"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/hibanasrin2727" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub"/>
-  </a>
-</p>
+<table>
+<tr>
+<td width="60%" align="left">
 
+<h2>👨‍💻 About Me</h2>
 
-## 👨‍💻 About Me
+</td>
+
+<td width="40%" align="right">
+
+<a href="https://linkedin.com/in/hiba-nasrin-vp" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="32" height="32" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/hiba_rzq" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" width="32" height="32" alt="Instagram"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:hibanasrin2727@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="32" height="32" alt="Gmail"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/hibanasrin2727" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="32" height="32" alt="GitHub"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 I'm **Hiba Nasrin VP**, a BCA graduate and aspiring full-stack developer who enjoys building practical web applications and learning modern development technologies.
 
@@ -51,6 +60,7 @@ I'm **Hiba Nasrin VP**, a BCA graduate and aspiring full-stack developer who enj
 * 🎯 Goal: Become a skilled **Full-Stack Developer**
 
 ---
+
 
 ## 🛠️ Tech Stack
 
