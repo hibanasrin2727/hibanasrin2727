@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hiba Nasrin VP</h1>
 
 <h3 align="center">
-  🚀 Aspiring Full-Stack Developer | BCA Graduate | Building & Learning
+  Aspiring Full-Stack Developer | BCA Graduate | Building & Learning
 </h3>
 
 <p align="center">
@@ -16,9 +16,7 @@
   </a>
 </p>
 
----
 
-## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/hiba-nasrin-vp" target="_blank">
