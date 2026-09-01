@@ -22,42 +22,49 @@
 <h2>
   👨‍💻 About Me
 
-  <span>
-    <a href="https://linkedin.com/in/hiba-nasrin-vp">
-      <img align="right"
-           src="https://skillicons.dev/icons?i=linkedin"
-           width="32"
-           height="32"
-           alt="LinkedIn"/>
-    </a>
+  <a href="https://linkedin.com/in/hiba-nasrin-vp">
+    <img
+      align="right"
+      src="https://skillicons.dev/icons?i=linkedin"
+      width="32"
+      height="32"
+      alt="LinkedIn"
+    />
+  </a>
 
-    <a href="https://instagram.com/hiba_rzq">
-      <img align="right"
-           src="https://skillicons.dev/icons?i=instagram"
-           width="32"
-           height="32"
-           alt="Instagram"/>
-    </a>
+  <a href="https://instagram.com/hiba_rzq">
+    <img
+      align="right"
+      src="https://skillicons.dev/icons?i=instagram"
+      width="32"
+      height="32"
+      alt="Instagram"
+    />
+  </a>
 
-    <a href="mailto:hibanasrin2727@gmail.com">
-      <img align="right"
-           src="https://skillicons.dev/icons?i=gmail"
-           width="32"
-           height="32"
-           alt="Gmail"/>
-    </a>
+  <a href="mailto:hibanasrin2727@gmail.com">
+    <img
+      align="right"
+      src="https://skillicons.dev/icons?i=gmail"
+      width="32"
+      height="32"
+      alt="Gmail"
+    />
+  </a>
 
-    <a href="https://github.com/hibanasrin2727">
-      <img align="right"
-           src="https://skillicons.dev/icons?i=github"
-           width="32"
-           height="32"
-           alt="GitHub"/>
-    </a>
-  </span>
+  <a href="https://github.com/hibanasrin2727">
+    <img
+      align="right"
+      src="https://skillicons.dev/icons?i=github"
+      width="32"
+      height="32"
+      alt="GitHub"
+    />
+  </a>
 </h2>
 
 <hr>
+
 I'm **Hiba Nasrin VP**, a BCA graduate and aspiring full-stack developer who enjoys building practical web applications and learning modern development technologies.
 
 * 🌱 Currently learning **MERN Stack Development**
@@ -68,7 +75,9 @@ I'm **Hiba Nasrin VP**, a BCA graduate and aspiring full-stack developer who enj
 * 🧪 Using **Postman** for API testing
 * 🚀 Improving my skills by building real-world projects
 * 🎯 Goal: Become a skilled **Full-Stack Developer**
+
 ---
+
 
 ## 🛠️ Tech Stack
 
