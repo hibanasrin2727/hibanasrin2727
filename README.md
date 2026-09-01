@@ -22,20 +22,22 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/hiba-nasrin-vp" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Hiba%20Nasrin%20VP-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/hiba_rzq" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@hiba__rzq-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://skillicons.dev/icons?i=instagram" width="50" height="50" alt="Instagram"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:hibanasrin2727@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-hibanasrin2727%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" height="50" alt="Gmail"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/hibanasrin2727" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Hiba%20Nasrin-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub"/>
   </a>
 </p>
 
----
 
 ## 👨‍💻 About Me
 
@@ -150,25 +152,6 @@ I'm **Hiba Nasrin VP**, a BCA graduate and aspiring full-stack developer who enj
 
 ---
 
-## 📚 Currently Learning
-
-```text
-React.js
-   ↓
-Redux Toolkit
-   ↓
-Node.js + Express.js
-   ↓
-MongoDB + Mongoose
-   ↓
-REST APIs
-   ↓
-Authentication
-   ↓
-Full-Stack Development
-```
-
----
 
 ## 📊 GitHub Statistics
 
