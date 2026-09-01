@@ -18,35 +18,29 @@
 
 ---
 
-<table width="100%">
-<tr>
-<td width="65%" align="left">
+<!-- About Me + Social Links -->
 
-<h2>👨‍💻 About Me</h2>
+<p>
+  <a href="https://github.com/hibanasrin2727" target="_blank">
+    <img align="right" src="https://skillicons.dev/icons?i=github" width="32" height="32" alt="GitHub"/>
+  </a>
 
-</td>
+  <a href="mailto:hibanasrin2727@gmail.com">
+    <img align="right" src="https://skillicons.dev/icons?i=gmail" width="32" height="32" alt="Gmail"/>
+  </a>
 
-<td width="35%" align="right">
+  <a href="https://instagram.com/hiba_rzq" target="_blank">
+    <img align="right" src="https://skillicons.dev/icons?i=instagram" width="32" height="32" alt="Instagram"/>
+  </a>
 
-<a href="https://linkedin.com/in/hiba-nasrin-vp" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="32" height="32" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://instagram.com/hiba_rzq" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" width="32" height="32" alt="Instagram"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:hibanasrin2727@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="32" height="32" alt="Gmail"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/hibanasrin2727" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="32" height="32" alt="GitHub"/>
-</a>
+  <a href="https://linkedin.com/in/hiba-nasrin-vp" target="_blank">
+    <img align="right" src="https://skillicons.dev/icons?i=linkedin" width="32" height="32" alt="LinkedIn"/>
+  </a>
 
-</td>
-</tr>
-</table>
+  <h2>👨‍💻 About Me</h2>
+</p>
+
+---
 
 I'm **Hiba Nasrin VP**, a BCA graduate and aspiring full-stack developer who enjoys building practical web applications and learning modern development technologies.
 
@@ -58,7 +52,6 @@ I'm **Hiba Nasrin VP**, a BCA graduate and aspiring full-stack developer who enj
 * 🧪 Using **Postman** for API testing
 * 🚀 Improving my skills by building real-world projects
 * 🎯 Goal: Become a skilled **Full-Stack Developer**
-
 ---
 
 ## 🛠️ Tech Stack
