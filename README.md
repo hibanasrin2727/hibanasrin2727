@@ -42,15 +42,15 @@
     />
   </a>
 
-  <a href="mailto:hibanasrin2727@gmail.com">
-    <img
-      align="right"
-      src="https://skillicons.dev/icons?i=gmail"
-      width="32"
-      height="32"
-      alt="Gmail"
-    />
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hibanasrin2727@gmail.com">
+  <img
+    align="right"
+    src="https://skillicons.dev/icons?i=gmail"
+    width="32"
+    height="32"
+    alt="Gmail"
+  />
+</a>
 
   <a href="https://github.com/hibanasrin2727">
     <img
