@@ -22,35 +22,19 @@
 
 <p>
   <a href="https://github.com/hibanasrin2727" target="_blank">
-    <img align="right"
-         src="https://cdn.simpleicons.org/github"
-         width="30"
-         height="30"
-         alt="GitHub"/>
+    <img align="right" src="https://skillicons.dev/icons?i=github" width="32" height="32" alt="GitHub"/>
   </a>
 
   <a href="mailto:hibanasrin2727@gmail.com">
-    <img align="right"
-         src="https://cdn.simpleicons.org/gmail"
-         width="30"
-         height="30"
-         alt="Gmail"/>
+    <img align="right" src="https://skillicons.dev/icons?i=gmail" width="32" height="32" alt="Gmail"/>
   </a>
 
   <a href="https://instagram.com/hiba_rzq" target="_blank">
-    <img align="right"
-         src="https://cdn.simpleicons.org/instagram"
-         width="30"
-         height="30"
-         alt="Instagram"/>
+    <img align="right" src="https://skillicons.dev/icons?i=instagram" width="32" height="32" alt="Instagram"/>
   </a>
 
   <a href="https://linkedin.com/in/hiba-nasrin-vp" target="_blank">
-    <img align="right"
-         src="https://cdn.simpleicons.org/linkedin"
-         width="30"
-         height="30"
-         alt="LinkedIn"/>
+    <img align="right" src="https://skillicons.dev/icons?i=linkedin" width="32" height="32" alt="LinkedIn"/>
   </a>
 
   <h2>👨‍💻 About Me</h2>
