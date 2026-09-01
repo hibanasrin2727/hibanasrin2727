@@ -220,13 +220,7 @@ I'm **Hiba Nasrin VP**, a BCA graduate and aspiring full-stack developer who enj
 
 ## 💡 Developer Philosophy
 
-<p align="center">
-
-> 🚀 <b>Learn by building.</b><br>
-> 💻 <b>Build by solving.</b><br>
-> 🌱 <b>Grow by improving.</b>
-
-</p>
+> **"Learn by building. Build by solving. Grow by improving."**
 
 <p align="center">
   ⭐ <b>Thanks for visiting my profile!</b> ⭐
